@@ -1,5 +1,7 @@
 This is the Nobara official theme. I have only modified the styling code to make it light-grayish. There is a folder and a file. The folder "Nobara Light" is the ``desktoptheme``, the one that colors the panel and the applications menu..etc.
-It needs to be in ``/usr/share/plasma/desktoptheme``. Then there is the file called ``NobaraModifiedLight.colors``, this one needs to either go in ``/.local/share/color-schemes`` if you want it for the user only, or in ``/usr/share/color-schemes`` for system wide installation.
+It needs to be in ``/usr/share/plasma/desktoptheme``.
+
+Then there is the file called ``NobaraModifiedLight.colors``, this one needs to either go in ``/.local/share/color-schemes`` if you want it for the user only, or in ``/usr/share/color-schemes`` for system wide installation.
 
 Make sure to change the icons to the papirus light ones. 
 
