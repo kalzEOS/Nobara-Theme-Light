@@ -10,6 +10,8 @@ You could also change the applications menu icon to a dark Nobara logo (or anyth
 I have also noticed that the ``Nobara package manager`` icon is almost invisible (first screenshot). I just changed it from the ``.desktop`` file of the app. Go to ``/usr/share/applications/``. Find ``dk.yumex.Yumex.desktop``. Right click and open it with kate. Replace ``Icon=nobara.package.manager``
 With ``Icon=/PATH-TO-YOUR-DOWNLOADED/FAVORIT-ICON``
 
+Lastly, I highly recommend that you pair this theme with the ![Darkly application style](https://github.com/Bali10050/Darkly) to have the best look!
+
 Enjoy
 
 ![Nobar-modified](https://github.com/user-attachments/assets/4e1fd52d-4f41-4b09-b38f-be698e4c2d27)
